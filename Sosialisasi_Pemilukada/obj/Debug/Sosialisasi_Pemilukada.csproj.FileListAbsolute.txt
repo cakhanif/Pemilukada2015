@@ -1,0 +1,108 @@
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\WeatherOnJogja_ExSysProject\as\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe.config
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe.config
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.pdb
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csprojResolveAssemblyReference.cache
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Properties.Resources.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.GenerateResource.Cache
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.exe
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.pdb
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.info_partai.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.main_form.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.headline_berita.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.candidat_form.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.faq_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe.config
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.exe
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.pdb
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.pdb
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csprojResolveAssemblyReference.cache
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.candidat_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.faq_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.headline_berita.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.main_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Properties.Resources.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.GenerateResource.Cache
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.ResolveComReference.cache
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.sosialisasi_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.daftarcaleg.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Interop.AXVLC.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\AxInterop.AXVLC.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Interop.AXVLC.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\AxInterop.AXVLC.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\Interop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\AxInterop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Interop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\AxInterop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\bin\Debug\af\Sosialisasi_Pemilukada.resources.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.sosialisasi_form.af.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada\Sosialisasi_Pemilukada\obj\Debug\af\Sosialisasi_Pemilukada.resources.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe.config
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Interop.WMPLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\AxInterop.WMPLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.ResolveComReference.cache
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.exe
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.pdb
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.pdb
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\af\Sosialisasi_Pemilukada.resources.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\Interop.WMPLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\bin\Debug\AxInterop.WMPLib.dll
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csprojResolveAssemblyReference.cache
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.candidat_form.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.daftarcaleg.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.faq_form.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.headline_berita.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.main_form.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.sosialisasi_form.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Properties.Resources.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.sosialisasi_form.af.resources
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.GenerateResource.Cache
+D:\Dokumen Fandi\KULI'AH\Pemrograman Lanjut\Final project\Sosialisasi_Pemilukada(02)\Sosialisasi_Pemilukada\obj\Debug\af\Sosialisasi_Pemilukada.resources.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe.config
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Interop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Interop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\AxInterop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.ResolveComReference.cache
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.exe
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.pdb
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csprojResolveAssemblyReference.cache
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.candidat_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.daftarcaleg.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.faq_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.headline_berita.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.main_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.sosialisasi_form.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Properties.Resources.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.Forms.sosialisasi_form.af.resources
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\Sosialisasi_Pemilukada.csproj.GenerateResource.Cache
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.exe
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\Sosialisasi_Pemilukada.pdb
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\af\Sosialisasi_Pemilukada.resources.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\Interop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\Interop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\Interop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\AxInterop.QTActiveXPluginCtrlLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\AxInterop.ShockwaveFlashObjects.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\bin\Debug\AxInterop.WMPLib.dll
+D:\SchoolArsip\Kuliah\Mata Kuliah\Semester 3\Pemrograman Lanjut\Final Project\Sosialisasi_Pemilukada(fix)\Sosialisasi_Pemilukada\obj\Debug\af\Sosialisasi_Pemilukada.resources.dll
